@@ -23,9 +23,7 @@ a {
 
 /* estilizacao corpo todo */
 
-
-
-/* #loading-screen {
+#loading-screen {
     position: fixed;
     top: 0;
     left: 0;
@@ -53,14 +51,14 @@ a {
     color: var(--color-white);
     font-size: 3rem;
     z-index: 10;
-}*/
+}
 
 
 :root {
     --color-green: #2389fd;
     --color-black: #202020;
     --color-white: #fafafa;
-} 
+}
 
 /* cabeçalho  */
 .container {
